@@ -1,14 +1,15 @@
 ---
 layout: default
 title: Ends
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 
-# Ends
+Coming soon
+{: .label .label-yellow }
 
-Ends is a standalone Apple Watch application that allow you to track the score and number of ends in your Lawn Bowls
-game.
+# Ends
+Ends is a standalone Apple Watch application that allow you to track the progress of your Lawn Bowls game.
 
 The application has three screens each with a specific task.
 
