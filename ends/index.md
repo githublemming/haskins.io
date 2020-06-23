@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: default
 title: Ends
-permalink: /ends/
+nav_order: 2
+has_children: true
 ---
+
 # Ends
 
 Ends is a standalone Apple Watch application that allow you to track the score and number of ends in your Lawn Bowls
