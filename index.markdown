@@ -12,6 +12,12 @@ the static site. Why? because I'm too cheap to fork out on dedicated hosting.
 ## Who am I?
 I'm a software engineer that is currently working as an AWS / Azure Systems Engineer.
 
+#### Some links that relate to me
+* [github](https://github.com/githublemming){:target="_blank"}
+* [flickr](https://www.flickr.com/photos/markhaskins){:target="_blank"}
+* [twitter](https://twitter.com/home){:target="_blank"}
+
+
 ## What will I find here?
 Currently on this site you will find:-
 * A Blog, though I'm not very talkative so don't expect a lot from that
