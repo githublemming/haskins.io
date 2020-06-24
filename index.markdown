@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# Hello and welcome to haskins.io.
+# Hello and Welcome to haskins.io
 
 ## What is this site
 Essentially it's a dumping ground for all my thoughts and ideas. It is powered by Jekyll using an AWS S3 bucket to host
