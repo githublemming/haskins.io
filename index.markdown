@@ -20,16 +20,7 @@ I'm a software engineer that is currently working as an AWS / Azure Systems Engi
 
 ## What will I find here?
 Currently on this site you will find:-
-* A Blog, though I'm not very talkative so don't expect a lot from that
-* Cloudtrail Viewer. This is an open source project I started almost 5 years ago and is the most popular repository I
+* **A Blog** - I'm not very talkative so don't expect a lot from that
+* **Cloudtrail Viewer** - This is an open source project I started almost 5 years ago and is the most popular repository I
 have on gitHub
-* Ends - This is Apple Watch based application that I'm currently working on.
-
-## Latest Posts
-<div>
-    {% for post in site.posts %}
-        {% if forloop.index < 6 %}
-           <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
-        {% endif %}
-    {% endfor %}
-</div>
+* **Ends** - This is Apple Watch based application that I'm currently working on.

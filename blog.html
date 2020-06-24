@@ -8,7 +8,18 @@ nav_order: 1
 
 <div>
     {% for post in site.posts %}
-        <h5><a href="{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</a></h5>
-        {{ post.excerpt }}
+        {% if forloop.index < 6 %}
+            <h5><a href="{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</a></h5>
+        {% endif %}
     {% endfor %}
 </div>
+
+
+{% for tag in site.categories %}
+<h3>{{ tag[0] }}</h3>
+<div>
+    {% for post in tag[1] %}
+    <h5><a href="{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</a></h5>
+    {% endfor %}
+</div>
+{% endfor %}

@@ -2,7 +2,6 @@
 layout: default
 title: Privacy Policy
 parent: Ends
-nav_order: 3
 ---
 
 # Privacy Policy
