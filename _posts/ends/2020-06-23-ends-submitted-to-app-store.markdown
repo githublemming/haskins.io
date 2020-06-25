@@ -2,6 +2,7 @@
 layout: post
 title:  "Ends submitted to the App Store"
 date:   2020-06-23 19:02:24 +0100
+category: Ends
 ---
 
 This evening I submitted Ends to the Apple App Store for approval. It's my first attempt at getting an application in one

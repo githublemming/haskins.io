@@ -2,6 +2,7 @@
 layout: post
 title:  "Feedback from the app store"
 date:   2020-06-24 18:30:00 +0100
+category: Ends
 ---
 
 My submission was reject. The reason they gave was that I need to provide a video of the application running.
