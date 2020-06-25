@@ -15,4 +15,5 @@ It is an open source application hosted on [github.com](https://github.com/githu
 
 The application will load files from your local harddisk, or if you provide AWS Access keys directly from an S3 bucket.
 
-Questions / Bugs / etc for this should be done via the Issue section on the GitHub page.
+Questions / Bugs / etc for this should be done via the 
+[Issues](https://github.com/githublemming/CloudTrailViewer/issues){:target="_blank"} function on the GitHub repository.
