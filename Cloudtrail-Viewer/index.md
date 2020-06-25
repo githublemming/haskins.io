@@ -14,3 +14,5 @@ It is an open source application hosted on [github.com](https://github.com/githu
 ![Home Screen](/assets/cloudtrail/ScreenShot.png)
 
 The application will load files from your local harddisk, or if you provide AWS Access keys directly from an S3 bucket.
+
+Questions / Bugs / etc for this should be done via the Issue section on the GitHub page.

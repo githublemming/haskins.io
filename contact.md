@@ -16,23 +16,25 @@ nav_order: 99
                     <td><input type="text" name="name" class="form-control" id="inputName" placeholder="Your name" required="required"></td>
                 </tr>
                 <tr>
-                    <td><label for="inputEmail">Email address</label></td>
+                    <td><label for="inputEmail">Email</label></td>
                     <td><input type="email" name="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" placeholder="Your email" required="required"></td>
                 </tr>
                 <tr>
-                    <td><label for="feedbackType">Feedback subject</label></td>
+                    <td><label for="feedbackType">Subject</label></td>
                     <td>
                         <select class="form-control" id="feedbackType" name="feedbacktype">
                           <option>General</option>
                           <option>Cloudtrail Viewer</option>
                           <option>Ends</option>
+                          <option>Games Night</option>
                         </select>
                     </td>
                 </tr>
                 <tr>
                     <td><label for="feedback">Feedback</label></td>
-                    <td><textarea name="feedback" class="form-control" id="feedback" placeholder="Your feedback" required="required"></textarea></td>
+                    <td><textarea rows="5" cols="65" name="feedback" class="form-control" id="feedback" placeholder="Your feedback" required="required"></textarea></td>
                 </tr>
+                <tr><td colspan="2" class="g-recaptcha" data-sitekey="6LcS-6gZAAAAAN4EeHNQXP9_Mx9XMFEE6lc5JF9O"></td></tr>
                 <tr>
                     <td colspan="2"><button type="submit" class="btn btn-primary">Submit</button></td>
                 </tr>
