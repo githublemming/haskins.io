@@ -5,8 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-Coming soon
-{: .label .label-yellow }
+<a href="https://apps.apple.com/us/app/ends/id1519994705?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-06-25&kind=iossoftware&bubble=apple_music) no-repeat;width:135px;height:40px;"></a>
 
 # Ends
 Ends is a standalone Apple Watch application that allow you to track the progress of your Lawn Bowls game.
