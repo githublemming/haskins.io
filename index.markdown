@@ -24,5 +24,5 @@ Currently on this site you will find:-
 
 | **A Blog** | I'm not very talkative so don't expect a lot from this |
 | **Cloudtrail Viewer** | This is an open source project I started almost 5 years ago, and is the most popular repository I have on gitHub |
-| **Ends** | This is Apple Watch application that I've finished and attempting to get it into the Apple App Store. |
+| **Ends** | This is Apple Watch application that is available in the Watch/iOS App Store |
 | **Games Night** | This is a Mac application that is currently in development |
