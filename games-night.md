@@ -10,6 +10,8 @@ In Development
 
 # Games Night
 
+[Main Site](http://www.gamesnightapp.com)
+
 This is a project that I've been working on and off for that last couple of years. The application is a collection of 
 games, and a quiz, that can be used to run a games night. All you have to do is turn up with your laptop to your 
 pub/club/village hall/etc. plug it into one or more screens, and away you go.
