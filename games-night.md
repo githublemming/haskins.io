@@ -21,13 +21,14 @@ while the players see the games screen.
 
 ## Status
 * The code is pretty well finished
-* The graphics have just been finished, and need to be added to the application
-* Need to get some sounds produced
+* The new graphics have been added to the application
+* Sounds Effects has been added to the application
+* Started preparing to push to the App Store
 
 ## Roadmap
 I was hoping to get this project finished and in the Mac App Store as soon as possible, but what with Covid-19 and people
 not being able to get together I've kind of laxed on this. The plan now is to submit it to the app store by the end of
-August 2020.
+July 2020.
 
 ## Videos
 ### Placeholder graphics
