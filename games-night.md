@@ -24,6 +24,7 @@ while the players see the games screen.
 * The new graphics have been added to the application
 * Sounds Effects has been added to the application
 * Started preparing to push to the App Store
+* Got a version 1 build ready to submit to the App Store
 
 ## Roadmap
 I was hoping to get this project finished and in the Mac App Store as soon as possible, but what with Covid-19 and people
@@ -31,14 +32,10 @@ not being able to get together I've kind of laxed on this. The plan now is to su
 July 2020.
 
 ## Videos
-### Placeholder graphics
+### Low Res Video
 
-There is a rough preview of the application on YouTube which I created to supply to the personal doing the graphics
-in order for them to understood what the application was doing. A lot has changed since I created this video, but the
-general overall functionality will be the same.
+There is a rough preview of the application on YouTube, which I created to supply to the person doing the sounds
+in order for them to understand what the application was doing.
 
-<div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/vRbwjyoLWFk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+<iframe width="1230" height="738" src="https://www.youtube.com/embed/kstEN5BmFCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
