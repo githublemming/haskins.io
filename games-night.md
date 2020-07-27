@@ -25,6 +25,7 @@ while the players see the games screen.
 * Sounds Effects has been added to the application
 * Started preparing to push to the App Store
 * Got a version 1 build ready to submit to the App Store
+* Version 1 has been submitted to the App Store
 
 ## Roadmap
 I was hoping to get this project finished and in the Mac App Store as soon as possible, but what with Covid-19 and people
