@@ -24,9 +24,9 @@ while the players see the games screen.
 * The new graphics have been added to the application
 * Sounds Effects has been added to the application
 * Started preparing to push to the App Store
-* Got a version 1.1.0 build ready to submit to the App Store
-* Version 1.1.0 has been submitted to the App Store
-* Version 1.1.0 is now in the App Store
+* Got a version 1.0.0 build ready to submit to the App Store
+* Version 1.0.0 has been submitted to the App Store
+* Version 1.0.0 is now in the App Store
 
 ## Roadmap
 I was hoping to get this project finished and in the Mac App Store as soon as possible, but what with Covid-19 and people
