@@ -5,8 +5,8 @@ nav_order: 3
 has_children: true
 ---
 
-In Development
-{: .label .label-red }
+Comming Soon
+{: .label .label-yellow }
 
 # Games Night
 
@@ -24,8 +24,9 @@ while the players see the games screen.
 * The new graphics have been added to the application
 * Sounds Effects has been added to the application
 * Started preparing to push to the App Store
-* Got a version 1 build ready to submit to the App Store
-* Version 1 has been submitted to the App Store
+* Got a version 1.1.0 build ready to submit to the App Store
+* Version 1.1.0 has been submitted to the App Store
+* Version 1.1.0 is now in the App Store
 
 ## Roadmap
 I was hoping to get this project finished and in the Mac App Store as soon as possible, but what with Covid-19 and people
@@ -39,4 +40,3 @@ There is a rough preview of the application on YouTube, which I created to suppl
 in order for them to understand what the application was doing.
 
 <iframe width="1230" height="738" src="https://www.youtube.com/embed/kstEN5BmFCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
