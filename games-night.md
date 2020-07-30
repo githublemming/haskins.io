@@ -5,8 +5,9 @@ nav_order: 3
 has_children: true
 ---
 
-Comming Soon
-{: .label .label-yellow }
+<a href="https://itunes.apple.com/app/games-night/id1523317720" target="_blank">
+  <img src="/assets/Mac_App_Store_Badge.svg" alt="Download on the App Store">
+</a>
 
 # Games Night
 
