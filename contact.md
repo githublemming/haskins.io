@@ -6,7 +6,9 @@ nav_order: 99
 ---
 
 # Contact
+If you want to reach out to me you can do so either using the below contact for or via Twitter <a href="https://twitter.com/MPHaskins">@MPHaskins</a>
 
+## The tried and tested contact form
 <form accept-charset="UTF-8" action="https://getform.io/f/183d5c48-f0a3-43a8-8e78-0d4ffd84d43a" method="POST" target="_blank">
     <div>
         <table>
